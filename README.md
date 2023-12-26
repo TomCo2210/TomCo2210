@@ -2,7 +2,7 @@
 
 <div align="center">👨🏻‍🎓 B.Sc in Software Engineering.</div>  
 
-<div align="center">👨‍🏫 Lecturer at Afeka - Tel Aviv's College of Engineering </div>  
+<div align="center">👨‍🏫 Lecturer at Afeka - The Academic College of Engineering in Tel Aviv </div>  
 
 <div align="center">👨‍💻 Software Engineer and DevOps at Pi-Crypto.</div>  
 
