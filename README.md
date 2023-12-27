@@ -1,6 +1,6 @@
 ### **<div align="center">Hi 👋, I'm Tom.</div>**  
 
-<div align="center">👨🏻‍🎓 B.Sc in Software Engineering.</div>  
+<div align="center">👨🏻‍🎓 B.Sc in Software Engineering, Specializing at Mobile Software Development 📱.</div>  
 
 <div align="center">👨‍🏫 Lecturer at Afeka - The Academic College of Engineering in Tel Aviv </div>  
 
