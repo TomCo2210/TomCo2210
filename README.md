@@ -1,4 +1,4 @@
-### **<div align="center">Hi 👋, I'm Tom.</div>**  
+# **<div align="center">Hi 👋, I'm Tom.</div>**  
 
 <div align="center">👨🏻‍🎓 B.Sc in Software Engineering, Specializing in Mobile Software Development 📱.</div>  
 
